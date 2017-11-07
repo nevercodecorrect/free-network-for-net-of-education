@@ -8,4 +8,6 @@ IP地址为2400:6180:0:d0::87:8001
 
 密码请留言  
 
-加密方式请选择AES-256-CFB  
+加密方式请选择AES-256-CFB  
+需要下载shadowsocks  
+https://github.com/shadowsocks/shadowsocks-csharp/releases
