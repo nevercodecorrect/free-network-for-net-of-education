@@ -10,4 +10,4 @@ IP地址为2400:6180:0:d0::87:8001
 
 加密方式请选择AES-256-CFB  
 需要下载shadowsocks  
-https://github.com/shadowsocks/shadowsocks-csharp/releases
+https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.6/Shadowsocks-4.0.6.zip
